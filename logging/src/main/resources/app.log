@@ -1,0 +1,11 @@
+[2024-12-29T18:01:45Z] [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils] [main] [83] [INFO ] Could not detect default configuration classes for test class [com.example.logging.LoggingApplicationTests]: LoggingApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+[2024-12-29T18:01:45Z] [org.springframework.boot.test.context.SpringBootTestContextBootstrapper] [main] [234] [INFO ] Found @SpringBootConfiguration com.example.logging.LoggingApplication for test class com.example.logging.LoggingApplicationTests
+[2024-12-29T18:01:45Z] [org.springframework.boot.StartupInfoLogger] [main] [53] [INFO ] Starting LoggingApplicationTests using Java 23.0.1 with PID 27696 (started by sei in /Users/sei/tutpt/tutorial-point-spring-boot/logging)
+[2024-12-29T18:01:45Z] [org.springframework.boot.SpringApplication] [main] [652] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-12-29T18:01:45Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started LoggingApplicationTests in 0.281 seconds (process running for 0.716)
+[2024-12-29T18:01:49Z] [com.example.logging.LoggingApplication] [main] [14] [INFO ] info msg
+[2024-12-29T18:01:49Z] [com.example.logging.LoggingApplication] [main] [15] [WARN ] warn msg
+[2024-12-29T18:01:49Z] [com.example.logging.LoggingApplication] [main] [16] [ERROR] err msg
+[2024-12-29T18:01:49Z] [org.springframework.boot.StartupInfoLogger] [main] [53] [INFO ] Starting LoggingApplication using Java 23.0.1 with PID 27716 (/Users/sei/tutpt/tutorial-point-spring-boot/logging/target/classes started by sei in /Users/sei/tutpt/tutorial-point-spring-boot/logging)
+[2024-12-29T18:01:49Z] [org.springframework.boot.SpringApplication] [main] [652] [INFO ] No active profile set, falling back to 1 default profile: "default"
+[2024-12-29T18:01:49Z] [org.springframework.boot.StartupInfoLogger] [main] [59] [INFO ] Started LoggingApplication in 0.275 seconds (process running for 0.442)
